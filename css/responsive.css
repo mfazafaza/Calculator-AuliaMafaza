@@ -1,0 +1,7 @@
+/*untuk smartphone */
+@media all and (max-width:1500px){
+    .calculator{
+        display: inline-block;
+        margin-top: -160px;
+    }
+}
